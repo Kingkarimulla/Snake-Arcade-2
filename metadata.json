@@ -1,0 +1,6 @@
+{
+  "name": "Snake Game",
+  "description": "A feature-rich classic Snake Arcade with Google Drive cloud save synchronization, global leaderboards, Google authentication, procedural synthesizer jukebox, customizable skins and accessories, daily quests, and animated retro boot screen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
